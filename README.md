@@ -6,12 +6,15 @@ El notebook y el dataset se encuentran en el presente repositorio además de est
 
 Este proyecto aplica las mejores prácticas de limpieza, preparación y visualización de datos utilizando Python en Google Colab. El objetivo es transformar un conjunto de datos bruto de Kiva Crowdfunding en información estructurada y lista para su análisis.
 
-
 Dataset Utilizado: Se ha trabajado con el archivo kiva_loans_42304_rows.csv, que contiene más de 42.000 registros sobre microcréditos de Kiva (importes, fechas, países, sectores y plazos).
 
-Pasos Ejecutados en el Notebook: Importación y Exploración: Carga del archivo CSV y revisión inicial de dimensiones, tipos de datos y estadísticas básicas con Pandas.
+Pasos Ejecutados en el Notebook: 
 
-Limpieza y Corrección:
+-Importación y Exploración
+
+-Carga del archivo CSV y revisión inicial de dimensiones, tipos de datos y estadísticas básicas con Pandas.
+
+-Limpieza y Corrección
 
 -Conversión de columnas de texto a formato fecha real (datetime).
 
